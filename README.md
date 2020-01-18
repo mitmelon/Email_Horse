@@ -10,12 +10,12 @@ Email_Horse Does the followings
 3) Connect to the SMTP server by the MX records.
 4) Check if given recipient email address is valid.
 5) Check if the user of email's domain exists.
-6) Check the delivery of the message.
 
 ## Class Usage :
 
 ```php
-require_once __DIR__."/Email_Horse.php";
+require_once __DIR__."/vendor/autoload.php";
+
 // Initialize library class
 $mail = new Email_Horse();
 
@@ -43,24 +43,11 @@ if($mail->check($email)){
 ```
 ## Fture Updates :
 Future Updates (v1.0.1) will contain
+
 1) Email Tracking for open or read
-2) Send Email including with attachments using templates
-3) Check email spam score
-4) Check email blacklist
-
-Future Updates (v1.0.2) will contain
-1) Send Marketing Emails
-2) Automate Email Sending
-3) Increase Email leads
-
-
-Future Updates (v1.0.3) will contain
-1) Receive Emails
-
-Future Updates (v1.0.4) will contain
-1) Optimize email sending
-2) Quene emails
-
+2) Send Secured Email including with attachments using templates
+3) Send Marketing Emails
+4) Automate Email Sending
 
 # License
 

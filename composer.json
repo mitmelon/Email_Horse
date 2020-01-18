@@ -1,0 +1,23 @@
+{
+    "name": "mitmelon/email_horse",
+    "description": "Class to validate and verify email address",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mitnets Technologies",
+            "email": "developer@mitnets.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Email_Horse\\": 
+            [
+                "Email_Horse/"
+            ]
+            
+        }
+    }
+}
