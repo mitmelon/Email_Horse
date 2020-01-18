@@ -1,6 +1,8 @@
 {
     "name": "mitmelon/email_horse",
     "description": "Class to validate and verify email address",
+    "keywords": ["email","email validations","email security","send email"],
+    "homepage": "https://mx1000.mitnets.com",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,7 +12,9 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {},
+    "require": {
+        "php": ">=5.3.0"
+    },
     "autoload": {
         "psr-4": {
             "Email_Horse\\": 
