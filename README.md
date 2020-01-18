@@ -11,6 +11,12 @@ Email_Horse Does the followings
 4) Check if given recipient email address is valid.
 5) Check if the user of email's domain exists.
 
+## Install:
+Use composer to install
+```php
+composer require mitmelon/email_horse
+```
+
 ## Class Usage :
 
 ```php
