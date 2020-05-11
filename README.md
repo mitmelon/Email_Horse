@@ -47,14 +47,6 @@ if($mail->check($email)){
     echo 'Email &lt;'.$email.'&gt; is not valid and not exist!'; 
 } 
 ```
-## Future Updates :
-Future Updates (v1.0.1) will contain
-
-1) Email Tracking for open or read
-2) Send Secured Email including with attachments using templates
-3) Send Marketing Emails
-4) Automate Email Sending
-
 # License
 
 Released under the MIT license
