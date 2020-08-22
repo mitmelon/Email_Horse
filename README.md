@@ -1,3 +1,5 @@
+#THIS PROJECT HAS BEEN ABANDONED PLEASE USE egulias/email-validator at https://github.com/egulias/EmailValidator INSTEAD. THANKS.
+
 # Email_Horse v1.0.0
 
 Email Horse is an email validation class to verify the presence of email.
