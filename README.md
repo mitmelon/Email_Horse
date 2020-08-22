@@ -1,4 +1,4 @@
-#THIS PROJECT HAS BEEN ABANDONED PLEASE USE egulias/email-validator at https://github.com/egulias/EmailValidator INSTEAD. THANKS.
+# THIS PROJECT HAS BEEN ABANDONED PLEASE USE egulias/email-validator at https://github.com/egulias/EmailValidator INSTEAD. THANKS.
 
 # Email_Horse v1.0.0
 
