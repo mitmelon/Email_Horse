@@ -1,4 +1,6 @@
 # THIS PROJECT HAS BEEN ABANDONED PLEASE USE egulias/email-validator at https://github.com/egulias/EmailValidator INSTEAD. THANKS.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmitmelon%2FEmail_Horse.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmitmelon%2FEmail_Horse?ref=badge_shield)
+
 
 # Email_Horse v1.0.0
 
@@ -52,3 +54,6 @@ if($mail->check($email)){
 # License
 
 Released under the MIT license
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmitmelon%2FEmail_Horse.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmitmelon%2FEmail_Horse?ref=badge_large)
